@@ -1,13 +1,13 @@
 # 🦑🌊 *Hi, I’m @qunikarp,* young student from Poland.
 
-🔭 Newbie coder
-👨🏼‍🎓 Cognitive Science's student.
-🕵🏼‍♀️ Open to collaborate on: almost everything, looking for different experiences.
-📚 Goal: Land a job until the end of 2023.
+🔭 Newbie coder<br>
+👨🏼‍🎓 Cognitive Science's student.<br>
+🕵🏼‍♀️ Open to collaborate on: almost everything, looking for different experiences.<br>
+📚 Goal: Land a job until the end of 2023.<br>
+👀 Interested in: photography, design, cognitive behavioral, mobile apps<br>
 
 
-👀 I’m interested in photography, design, cognitive behavioral, mobile apps.<br>
-🌱 I’m current learning:
+🌱 Learning:
 ````🟩 - able to practical usage | 🟥 - not started learning | 🟦 - learning````
 <ul>
       <li>🟩 HTML5

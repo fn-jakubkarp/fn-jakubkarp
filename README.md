@@ -1,5 +1,5 @@
-# 👋 ==Hi, I’m @qunikarp,==
-## cognitive science student from Poland.
+# 👋 *Hi, I’m @qunikarp,*
+### cognitive science student from Poland.
 👀 I’m interested in photography, design, cognitive behavioral, mobile apps.
 - 🌱 I’m current learning Path (🟩 - able to practical usage | 🟥 - not started learning | 🟦 - learning)
       - 🟩 HTML5

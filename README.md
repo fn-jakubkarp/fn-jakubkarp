@@ -15,7 +15,7 @@
       <li>🟦 Version Control
       <li>🟦 CSS3
       <li>🟦 Bash basics
-      <li>❌ JS
+      <li>🟦 JS
       <li>❌ Algorithms and data Structure
       <li>❌ Node.js
       <li>❌ TypeScript

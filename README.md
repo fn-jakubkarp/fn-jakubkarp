@@ -9,11 +9,11 @@
 
 
 🌱 Learning:
-````🟩 - able to practical usage | 🟥 - not started learning | 🟦 - learning````
+````🟩 - able for practical usage | 🟥 - not started learning | 🟦 - learning````
 <ul>
       <li>🟩 HTML5
       <li>🟦 Version Control
-      <li>🟦 CSS3
+      <li>🟩 CSS3
       <li>🟦 Bash basics
       <li>🟦 JS
       <li>❌ Algorithms and data Structure

@@ -16,7 +16,7 @@
       <li>🟩 CSS3
       <li>🟦 Bash basics
       <li>🟦 JS
-      <li>❌ Algorithms and data Structure
+      <li>🟦 Algorithms and data Structure
       <li>❌ Node.js
       <li>❌ TypeScript
       <li>❌ React

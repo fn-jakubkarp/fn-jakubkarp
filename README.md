@@ -33,7 +33,10 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jakub-karp/#gh-dark-mode-only)   [LinkedIn](https://www.linkedin.com/in/jakub-karp/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-<img align="right" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/micro" />
+</br>
+<img align="right" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" />
+</br>
+</br>
 <img align="right" alt="qunikarp's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qunikarp&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <!---
 qunikarp/qunikarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

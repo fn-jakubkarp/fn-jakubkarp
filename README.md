@@ -23,6 +23,7 @@
       <li>❌ React Native
       <li>❌ Package managers, Webpack
 </ul>
+<iframe src="https://www.codewars.com/users/qunikarp/badges/micro" width="400px" height="150px"></iframe>
 
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/qunikarp#gh-light-mode-only)   [Twitter](https://twitter.com/qunikarp#gh-light-mode-only)

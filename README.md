@@ -17,9 +17,9 @@
       <li>🟦 Bash basics
       <li>🟦 JS
       <li>🟦 Algorithms and data Structure
-      <li>❌ Node.js
-      <li>❌ TypeScript
-      <li>❌ React
+      <li>🟦 Node.js
+      <li>🟦 TypeScript
+      <li>🟦 React
       <li>❌ React Native
       <li>❌ Package managers, Webpack
 </ul>

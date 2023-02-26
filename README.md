@@ -1,6 +1,7 @@
 
-# 🦑🌊 *Hi, I’m @qunikarp,* 👋🏼
-###### 💻 Front-end developer  AND  Photographer 📸 
+
+#  <p align=center>🦑 *Hi, I’m @qunikarp,* 🌊 </br>  💻 Front-end developer  AND  Photographer 📸</p>
+
 
 🔭 Newbie coder<br>
 👨🏼‍🎓 Cognitive Science's student.<br>
@@ -27,19 +28,23 @@
 </ul>
 
 
-### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/qunikarp#gh-light-mode-only)   [Twitter](https://twitter.com/qunikarp#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/qunikarp#gh-dark-mode-only)   [Twitter](https://twitter.com/qunikarp#gh-dark-mode-only)
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jakub-karp/#gh-light-mode-only)   [LinkedIn](https://www.linkedin.com/in/jakub-karp/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jakub-karp/#gh-dark-mode-only)   [LinkedIn](https://www.linkedin.com/in/jakub-karp/#gh-dark-mode-only)
+
+### Connect with me:
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  quni#8918 </br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jakubkarp.kontakt@gmail.com
+
 &nbsp;&nbsp;
 
+<img align="right" alt="qunikarp's CodeWars Stats" src="https://github-profile-trophy.vercel.app/?username=qunikarp" />
 </br>
 <img align="right" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" />
 </br>
 </br>
 <img align="right" alt="qunikarp's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qunikarp&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
 <!---
 qunikarp/qunikarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,6 +1,6 @@
-![banner](https://github.com/qunikarp/qunikarp/blob/main/img/banner.png?raw=true)
+
 # 🦑🌊 *Hi, I’m @qunikarp,* 👋🏼
-## 💻 Front-end developer  AND  Photographer 📸 
+###### 💻 Front-end developer  AND  Photographer 📸 
 
 🔭 Newbie coder<br>
 👨🏼‍🎓 Cognitive Science's student.<br>

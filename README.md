@@ -1,6 +1,7 @@
 
-<img src='https://github.com/qunikarp/qunikarp/blob/main/img/banner.png' align='center'/></br>
-#  <p align=center>🦑 *Hi, I’m @qunikarp,* 🌊 </br>  💻 Front-end developer  AND  Photographer 📸</p>
+<img src='https://github.com/qunikarp/qunikarp/blob/main/img/2banner.png' align='center'/></br>
+### <p align=center>🌊 *Hi, I’m <a href="https://github.com/qunikarp">@qunikarp</a>* </p> 
+# <p align=center>💻 Front-end developer  AND  Photographer 📸</p>
 
 
 🔭 Newbie coder<br>
@@ -18,7 +19,7 @@
       <li>🟦 Version Control
       <li>🟩 CSS3
       <li>🟦 Bash basics
-      <li>🟦 JS
+      <li>🟦 ![badge](https://badgen.net/badge/language/JavaScript/F7DF1E?icon=javascript)
       <li>🟦 Algorithms and data Structure
       <li>🟦 Node.js
       <li>🟦 TypeScript
@@ -30,10 +31,10 @@
 
 
 
-### Connect with me:
+### 🤝🏼 Connect with me:
+<a href="https://www.linkedin.com/in/jakubkarp"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn icon" width="22px"/>*@jakubkarp*</a>
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  quni#8918 </br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jakubkarp.kontakt@gmail.com
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord icon" width="22px"/> *quni#8918*
 
 &nbsp;&nbsp;
 

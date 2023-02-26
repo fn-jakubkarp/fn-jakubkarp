@@ -12,38 +12,46 @@
 🎫 Check out my free Notion templates: [quni.notion.site](https://alert-texture-cce.notion.site/Quni-TEMPLATES-5a5d5b8ae5584cca800e1a65421efe8e)
 
 
-🌱 Learning:
-````🟩 - able for practical usage | 🟥 - not started learning | 🟦 - learning````
-<ul>
-      <li>🟩 HTML5
-      <li>🟦 Version Control
-      <li>🟩 CSS3
-      <li>🟦 Bash basics
-      <li>🟦 ![badge](https://badgen.net/badge/language/JavaScript/F7DF1E?icon=javascript)
-      <li>🟦 Algorithms and data Structure
-      <li>🟦 Node.js
-      <li>🟦 TypeScript
-      <li>🟦 React
-      <li>❌ React Native
-      <li>❌ Package managers, Webpack
-</ul>
+## ⚙ Technical Skills:
+### Web basics: 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+---
+
+### Code:
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+---
+
+### Tools: 
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+---
+
+### Other: 
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+---
+
+### Photography & Design: 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
 
 
+## 🌱 Want to learn:
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 
-
-### 🤝🏼 Connect with me:
-<a href="https://www.linkedin.com/in/jakubkarp"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn icon" width="22px"/>*@jakubkarp*</a>
-
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord icon" width="22px"/> *quni#8918*
 
 &nbsp;&nbsp;
 
-<img align="right" alt="qunikarp's CodeWars Stats" src="https://github-profile-trophy.vercel.app/?username=qunikarp" />
-</br>
-<img align="right" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" />
-</br>
-</br>
-<img align="right" alt="qunikarp's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qunikarp&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+### 🤝🏼 Connect with me:
+<a href="https://www.linkedin.com/in/jakubkarp"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn icon" width="22px"/>*@jakubkarp*</a> </br>
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord icon" width="22px"/> *quni#8918*
+
+&nbsp;&nbsp;
+<img align="left" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" /> </br> </br>
+<img align="left" alt="qunikarp's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qunikarp&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> </br>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=qunikarp" />
+
+
+
+
 
 
 <!---

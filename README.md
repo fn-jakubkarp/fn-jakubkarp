@@ -5,7 +5,7 @@
 🕵🏼‍♀️ Open to collaborate on: almost everything, looking for different experiences.<br>
 📚 Goal: Land a job until the end of 2023.<br>
 👀 Interested in: photography, design, cognitive behavioral, mobile apps<br>
-🎫 Check out my free Notion templates: [quni.notion.site](https://quni.notion.site/Quni-TEMPLATES-403140c1be0c45569cba78744eb8fc49)
+🎫 Check out my free Notion templates: [quni.notion.site](https://alert-texture-cce.notion.site/Quni-TEMPLATES-5a5d5b8ae5584cca800e1a65421efe8e)
 
 
 🌱 Learning:

@@ -1,5 +1,5 @@
 
-
+<img src='https://github.com/qunikarp/qunikarp/blob/main/img/banner.png' align='center'/></br>
 #  <p align=center>🦑 *Hi, I’m @qunikarp,* 🌊 </br>  💻 Front-end developer  AND  Photographer 📸</p>
 
 

@@ -41,8 +41,9 @@
 &nbsp;&nbsp;
 
 ### 🤝🏼 Connect with me:
-<a href="https://www.linkedin.com/in/jakubkarp"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn icon" width="22px"/>*@jakubkarp*</a> </br>
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord icon" width="22px"/> *quni#8918*
+<a href="https://www.linkedin.com/in/jakubkarp"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn icon" width="22px"/>*@jakubkarp*</a></br>
+</br><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord icon" width="22px"/> *quni#8918*
+</br>
 
 &nbsp;&nbsp;
 <img align="left" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" /> </br> </br>

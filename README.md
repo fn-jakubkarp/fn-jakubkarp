@@ -47,7 +47,7 @@
 
 &nbsp;&nbsp;
 <img align="left" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" /> </br> </br>
-<img align="left" alt="qunikarp's GitHub Stats" src="github-readme-stats-2782bther-qunikarp.vercel.app/api?username=qunikarp&show_icons=true&hide_border=true" /> </br>
+<img align="left" alt="qunikarp's GitHub Stats" src="https://github-readme-stats-two-sigma-26.vercel.app/api?username=qunikarp&show_icons=true&hide_border=true" /> </br>
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=qunikarp" />
 
 

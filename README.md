@@ -46,9 +46,10 @@
 </br>
 
 &nbsp;&nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qunikarp&show_icons=true&locale=en&layout=compact" alt="qunikarp" /></p>
 <img align="left" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" /> </br> </br>
-<img align="left" alt="qunikarp's GitHub Stats" src="https://github-readme-stats-two-sigma-26.vercel.app/api?username=qunikarp&show_icons=true&hide_border=true" /> </br>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=qunikarp" />
+<!-- <img align="left" alt="qunikarp's GitHub Stats" src="https://github-readme-stats-two-sigma-26.vercel.app/api?username=qunikarp&show_icons=true&hide_border=true" /> </br> -->
+<!-- <img align="left" src="https://github-profile-trophy.vercel.app/?username=qunikarp" /> -->
 
 
 

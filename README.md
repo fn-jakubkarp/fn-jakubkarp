@@ -41,9 +41,12 @@
 &nbsp;&nbsp;
 
 ### 🤝🏼 Connect with me:
-<a href="https://www.linkedin.com/in/jakubkarp"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn icon" width="22px"/>*@jakubkarp*</a></br>
-</br><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord icon" width="22px"/> *quni#8918*
-</br>
+<p align="left">
+<a href="https://linkedin.com/in/jakubkarp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakubkarp" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/qunikarp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qunikarp" height="30" width="40" /></a>
+<a href="https://discord.gg/3sRt8NnMDm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3sRt8NnMDm" height="30" width="40" /></a>
+</p>
+
 
 &nbsp;&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qunikarp&show_icons=true&locale=en&layout=compact" alt="qunikarp" /></p>

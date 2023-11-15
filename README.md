@@ -1,15 +1,27 @@
 
-<img src='https://github.com/qunikarp/qunikarp/blob/main/img/2banner.png' align='center'/></br>
-### <p align=center>🌊 *Hi, I’m <a href="https://github.com/qunikarp">@qunikarp</a>* </p> 
-# <p align=center>💻 Front-end developer  AND  Photographer 📸</p>
+<!-- <img src='https://github.com/qunikarp/qunikarp/blob/main/img/2banner.png' align='center'/></br> -->
+<div>
+  <h1 align=center>🌊 Hi, I’m <a href="https://github.com/qunikarp">@qunikarp</h1>
+  <h3 align=center>💻 Front-end developer && photographer 📸 </h2>
+</div>
 
 
-🔭 Newbie coder<br>
-👨🏼‍🎓 Cognitive Science's student.<br>
-🕵🏼‍♀️ Open to collaborate on: almost everything, looking for different experiences.<br>
-📚 Goal: Land a job until the end of 2023.<br>
-👀 Interested in: photography, design, cognitive behavioral, mobile apps<br>
-🎫 Check out my free Notion templates: [quni.notion.site](https://alert-texture-cce.notion.site/Quni-TEMPLATES-5a5d5b8ae5584cca800e1a65421efe8e)
+
+  🔭 Newbie coder<br>
+  👨🏼‍🎓 Cognitive Science's student.<br>
+  🕵🏼‍♀️ Open to collaborate on: almost everything, looking for different experiences.<br>
+  👀 Interested in: photography, design, cognitive behavioral, mobile apps<br>
+  
+<div align="center">
+     <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
+    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
+    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
+    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
+    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
+    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
+</div>
+
 
 
 ## ⚙ Technical Skills:

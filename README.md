@@ -15,10 +15,9 @@
 
 &nbsp;&nbsp;
 
-🔭 Newbie coder<br>
-👨🏼‍🎓 Cognitive Science's student.<br>
-🕵🏼‍♀️ Open to collaborate on: almost everything, looking for different experiences.<br>
-👀 Interested in: photography, design, cognitive behavioral, mobile apps<br>
+🚀 I'm a dedicated learner in front-end development. </br>
+🌐 Passionate about creating seamless user experiences, I'm open to collaboration on diverse projects. </br>
+📷 Beyond coding, my interests span photography, design, and the intersection of cognitive behavioral science with mobile app development. </br>
   
 
 &nbsp;&nbsp;

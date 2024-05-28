@@ -5,12 +5,6 @@
 
 <div align="center">
      <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
-    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
-    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
-    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
-    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
-    <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> 
 </div>
 
 &nbsp;&nbsp;

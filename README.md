@@ -55,8 +55,8 @@
 <h3 align="left">Statistics</h3>
 <div align="left">
 <a href="https://github.com/qunikarp">
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qunikarp&theme=dark" height="180em" />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qunikarp&theme=dark" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fn-jakubkarp&theme=dark" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fn-jakubkarp&theme=dark" height="180em" />
 </div>
   &nbsp;
 <img align="left" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" />

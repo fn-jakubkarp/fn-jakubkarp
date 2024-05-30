@@ -49,15 +49,15 @@
 </p>
 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=qunikarp&langs_count=8&theme=dark&show_border=false" alt=qunikarp />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fn-jakubkarp&langs_count=8&theme=dark&show_border=false" alt=qunikarp />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Statistics</h3>
 <div align="left">
-<a href="https://github.com/qunikarp">
+<a href="https://github.com/fn-jakubkarp">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fn-jakubkarp&theme=dark" height="180em" />
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fn-jakubkarp&theme=dark" height="180em" />
 </div>
   &nbsp;
-<img align="left" alt="qunikarp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" />
+<img align="left" alt="Jakub Karp's CodeWars Stats" src="https://www.codewars.com/users/qunikarp/badges/large" />
 

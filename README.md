@@ -1,7 +1,7 @@
-<h1 align=center>🌊 Hi, I’m <a href="https://github.com/qunikarp">@qunikarp</h1>
-<h3 align=center>💻 Front-end developer, photographer 📸 </h2>
+<h1 align=center>🌊 Hi, I’m <a href="https://github.com/qunikarp">@jakubkarp</h1>
+<h3 align=center>💻 Front-end developer </h2>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qunikarp&label=Profile%20views&color=0e75b6&style=flat" alt="qunikarp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qunikarp&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkarp" /> </p>
 
 <div align="center">
      <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>

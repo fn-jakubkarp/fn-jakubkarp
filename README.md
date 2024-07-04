@@ -1,5 +1,4 @@
 <h1 align=center>🌊 Hi, I’m <a href="https://github.com/qunikarp">@jakubkarp</h1>
-<h3 align=center>💻 Front-end developer </h2>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qunikarp&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkarp" /> </p>
 

@@ -28,3 +28,17 @@
     </a>
   </p>
 
+
+
+
+
+
+| **Category**         | **Skills**                                                                                     |
+|----------------------|------------------------------------------------------------------------------------------------|
+| **Frontend**          | ![JavaScript](https://img.shields.io/badge/JavaScript-808080?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-808080?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-808080?style=for-the-badge&logo=react&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-808080?style=for-the-badge&logo=solidjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-808080?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-808080?style=for-the-badge&logo=sass&logoColor=white) |
+| **Backend & Scripting**| ![Node.js](https://img.shields.io/badge/Node.js-808080?style=for-the-badge&logo=node.js&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-808080?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-808080?style=for-the-badge&logo=ansible&logoColor=white) |
+| **Testing**           | ![Cypress](https://img.shields.io/badge/Cypress-808080?style=for-the-badge&logo=cypress&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing%20Library-808080?style=for-the-badge&logo=testing-library&logoColor=white) |
+| **Version Control & CI/CD**| ![Git](https://img.shields.io/badge/Git-808080?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-808080?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **Design & Tools**    | ![Figma](https://img.shields.io/badge/Figma-808080?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-808080?style=for-the-badge&logo=adobe-lightroom&logoColor=white) |
+
+

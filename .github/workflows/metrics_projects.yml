@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
-
+          token: ${{ secrets.METRICS_SECRET }}
+          
           # Options
           filename: metrics.plugin.projects.svg
           base: ""

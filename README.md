@@ -21,10 +21,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-<b>👨‍💻 Stats</b>
   <p align="left">
     <a>
-      <img align="center" src="https://github.com/fn-jakubkarp/fn-jakubkarp/blob/main/github-metrics.svg"/>
+      <img  src="https://github.com/fn-jakubkarp/fn-jakubkarp/blob/main/github-metrics.svg"/>
     </a>
   </p>
 

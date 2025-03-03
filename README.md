@@ -1,8 +1,8 @@
 # 🌊 Hi, I'm [@jakubkarp](https://github.com/qunikarp)
 
 <img align="right" src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e477gt5fhtnhlu49018476utwy5iw23n5dvrowmq5j4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="140"/>
-
-<p><i>Software Developer by day, Terminal wizard by night</i></p>
+</br>
+</br>
 
 <img src="https://komarev.com/ghpvc/?username=qunikarp&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkarp" />
 

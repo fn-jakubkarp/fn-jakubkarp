@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: Render metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -19,3 +19,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year

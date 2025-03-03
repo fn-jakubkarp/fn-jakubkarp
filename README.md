@@ -15,7 +15,7 @@
 
 ## ⚡ What am I up to?
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIwNnBqbTRncWE5dGJldW1ucWh0cHpxYnY0czlmeWxrbjZoc2R1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="200" height="200" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIwNnBqbTRncWE5dGJldW1ucWh0cHpxYnY0czlmeWxrbjZoc2R1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="140" height="140" />
 
 - 🚀 **QA Engineer & Frontend Dev** | I break things so you don't have to
 - 🎨 Tweaking my setup till *it's just right* | It never is ;d
@@ -89,12 +89,15 @@
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github.com/fn-jakubkarp/fn-jakubkarp/blob/main/github-metrics.svg"/>
-  </div>
-</div>
+| ![Metrics](https://github.com/fn-jakubkarp/fn-jakubkarp/blob/main/github-metrics.svg) | ![Achivements](https://github.com/fn-jakubkarp/fn-jakubkarp/blob/main/metrics.plugin.achivements.svg) |
+|---|---
 
+<hr>
+<p align="left">
+  <img src="https://github.com/fn-jakubkarp/fn-jakubkarp/blob/main/metrics.plugin.rss.svg">
+</p>
+
+      
 <div style="flex: 1; text-align: right;">
     <h2>💭 Random Dev Quote</h2>
     <div style="flex: 1; min-width: 300px; text-align: right;">

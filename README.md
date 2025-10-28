@@ -82,25 +82,3 @@
 
 <hr>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    <h2>📊 GitHub Stats</h2>
-    <p><i>Automatically updated daily via CI/CD</i></p>
-  </div>
-</div>
-
-| ![Metrics](https://github.com/fn-jakubkarp/fn-jakubkarp/blob/main/github-metrics.svg) | ![Achivements](https://github.com/fn-jakubkarp/fn-jakubkarp/blob/main/metrics.plugin.achivements.svg) |
-|---|---
-
-<hr>
-<p align="left">
-  <img src="https://github.com/fn-jakubkarp/fn-jakubkarp/blob/main/metrics.plugin.rss.svg">
-</p>
-
-      
-<div style="flex: 1; text-align: right;">
-    <h2>💭 Random Dev Quote</h2>
-    <div style="flex: 1; min-width: 300px; text-align: right;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    </div>
-  </div>

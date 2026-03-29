@@ -1,35 +1,28 @@
 # 🌊 Hi, I'm [@jakubkarp](https://github.com/fn-jakubkarp)
-*DevOps & Infrastructure Engineer*
+I do DevOps, infrastructure, and automation.
 
 <img src="https://komarev.com/ghpvc/?username=fn-jakubkarp&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkarp" /> <img src="https://img.shields.io/github/followers/fn-jakubkarp?style=flat&logo=github&color=lightgrey&label=Followers" alt="Followers" />
 
-
-
-#### Stack I'm working with:
-- Linux (Debian/RHEL), Docker, Github Actions, Terraform, Ansible
-- Python, Bash, Redis, Node.js
-- Grafana, Prometheus
+### Stack I'm working with:
+- **Infra/CI:** Linux (Debian/RHEL), Docker, Github Actions, Terraform, Ansible, Multipass
+- **Scripting & Backend:** Python, Bash, Redis, Node.js
 
 <hr>
 
 ### Currently working on:
-- [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, Bash.
+- [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, and Bash.
 
+### Open Source Projects & Homelab:
+- [Ansible Dotfiles](https://github.com/fn-jakubkarp/ansible-dotfiles) - Infrastructure-as-Code approach to managing my dotfiles across multiple machines.  
+- [Coresend](https://github.com/lirinlabs/coresend) - A zero-trust, ephemeral email service built with Go, Redis, and React.  
 
-### Projects:
-- [Ansible Dotfiles](https://github.com/fn-jakubkarp/ansible-dotfiles) - Ansible playbook to manage my dotfiles across multiple machines.  
-- [Coresend](https://github.com/lirinlabs/coresend) - A zero-trust, ephemeral email service built with Go, Redis, and React, designed for secure and temporary email communication.  
-- [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, Bash.  
-- [Easy TMS](https://github.com/fn-jakubkarp/easy-tms) - (private) JSON-based Test Management System  
-- [Antiburst Telegram Bot](https://github.com/fn-jakubkarp/antiburst-telegram-bot) - (private) Telegram Bot w/ Redis lock
+*(Private production work: Telegram anti-burst bot w/ Redis lock, Custom JSON-based Test Management System, Self-hosted GitHub Runners infrastructure)*
 
 <hr>
 
-  
-### Next steps (2026 goals):
-- Terraform Associate 004
-- AZ-104 (Microsoft Azure Administrator)
-- CKA (Certified Kubernetes Administrator)
+### Currently Learning / 2026 Goals
+- Prometheus & Grafana
+- Terraform Associate 004, AZ-104, CKA
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/jakub-karp/">

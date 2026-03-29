@@ -1,6 +1,6 @@
 # 🌊 Hi, I'm [@jakubkarp](https://github.com/fn-jakubkarp)
 I do DevOps, infrastructure, and automation.
-<img align="right" width="45%" src="https://github.com/fn-jakubkarp/fn-jakubkarp/raw/main/github-metrics.svg" alt="Metrics stats"/>
+<img align="right" width="40%" src="https://github.com/fn-jakubkarp/fn-jakubkarp/raw/main/github-metrics.svg" alt="Metrics stats"/>
 
 
 <img src="https://komarev.com/ghpvc/?username=fn-jakubkarp&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkarp" /> <img src="https://img.shields.io/github/followers/fn-jakubkarp?style=flat&logo=github&color=lightgrey&label=Followers" alt="Followers" />

@@ -13,15 +13,15 @@
 <hr>
 
 ### Currently working on:
-[Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, Bash. &nbsp; ![Last Commit](https://img.shields.io/github/last-commit/fn-jakubkarp/multipass-swarm-mode?style=flat&color=green)
+- [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, Bash.
 
 
 ### Projects:
-[Ansible Dotfiles](https://github.com/fn-jakubkarp/ansible-dotfiles) - Ansible playbook to manage my dotfiles across multiple machines.  
-[Coresend](https://github.com/lirinlabs/coresend) - A zero-trust, ephemeral email service built with Go, Redis, and React, designed for secure and temporary email communication.  
-[Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, Bash.  
-[Easy TMS](https://github.com/fn-jakubkarp/easy-tms) - (private) JSON-based Test Management System  
-[Antiburst Telegram Bot](https://github.com/fn-jakubkarp/antiburst-telegram-bot) - (private) Telegram Bot w/ Redis lock
+- [Ansible Dotfiles](https://github.com/fn-jakubkarp/ansible-dotfiles) - Ansible playbook to manage my dotfiles across multiple machines.  
+- [Coresend](https://github.com/lirinlabs/coresend) - A zero-trust, ephemeral email service built with Go, Redis, and React, designed for secure and temporary email communication.  
+- [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, Bash.  
+- [Easy TMS](https://github.com/fn-jakubkarp/easy-tms) - (private) JSON-based Test Management System  
+- [Antiburst Telegram Bot](https://github.com/fn-jakubkarp/antiburst-telegram-bot) - (private) Telegram Bot w/ Redis lock
 
 <hr>
 

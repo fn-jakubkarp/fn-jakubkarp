@@ -1,13 +1,13 @@
 # 🌊 Hi, I'm [@jakubkarp](https://github.com/fn-jakubkarp)
 I do DevOps, infrastructure, and automation.
+<img align="right" width="45%" src="https://github.com/fn-jakubkarp/fn-jakubkarp/raw/main/github-metrics.svg" alt="Metrics stats"/>
+
 
 <img src="https://komarev.com/ghpvc/?username=fn-jakubkarp&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkarp" /> <img src="https://img.shields.io/github/followers/fn-jakubkarp?style=flat&logo=github&color=lightgrey&label=Followers" alt="Followers" />
 
 ### Stack I'm working with:
 - **Infra & CI:** Linux (Debian/RHEL), Docker, Github Actions, Terraform, Ansible, Multipass
 - **Scripting & Backend:** Python, Bash, Redis, Node.js
-
-<hr>
 
 ### Currently working on:
 - [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, and Bash.
@@ -18,11 +18,11 @@ I do DevOps, infrastructure, and automation.
 
 *(Private production work: Telegram anti-burst bot w/ Redis lock, Custom JSON-based Test Management System, Self-hosted GitHub Runners infrastructure)*
 
-<hr>
-
 ### Currently Learning / 2026 Goals
 - Prometheus & Grafana
 - Terraform Associate 004, AZ-104, CKA
+
+<hr>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/jakub-karp/">
@@ -30,3 +30,5 @@ I do DevOps, infrastructure, and automation.
 </a> &nbsp; <a href="mailto:jakubkarp.kontakt@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
+
+<br clear="both">

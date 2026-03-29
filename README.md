@@ -4,7 +4,7 @@ I do DevOps, infrastructure, and automation.
 <img src="https://komarev.com/ghpvc/?username=fn-jakubkarp&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkarp" /> <img src="https://img.shields.io/github/followers/fn-jakubkarp?style=flat&logo=github&color=lightgrey&label=Followers" alt="Followers" />
 
 ### Stack I'm working with:
-- **Infra/CI:** Linux (Debian/RHEL), Docker, Github Actions, Terraform, Ansible, Multipass
+- **Infra & CI:** Linux (Debian/RHEL), Docker, Github Actions, Terraform, Ansible, Multipass
 - **Scripting & Backend:** Python, Bash, Redis, Node.js
 
 <hr>

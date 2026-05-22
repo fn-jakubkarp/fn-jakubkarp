@@ -13,6 +13,7 @@ I do DevOps, infrastructure, and automation.
 - [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, and Bash.
 
 ### Open Source Projects & Homelab:
+- [Zed Vivid Voice Theme](https://github.com/fn-jakubkarp/zed-vivid-void-theme) & [Zed Config](https://github.com/fn-jakubkarp/zed-cfg) - A personal color theme and configuration setup for the Zed editor.
 - [Ansible Dotfiles](https://github.com/fn-jakubkarp/ansible-dotfiles) - Infrastructure-as-Code approach to managing my dotfiles across multiple machines.  
 - [Coresend](https://github.com/lirinlabs/coresend) - A zero-trust, ephemeral email service built with Go, Redis, and React.  
 

@@ -20,8 +20,6 @@ I do DevOps, infrastructure, and automation.
 - [Coresend](https://github.com/lirinlabs/coresend) - Ephemeral email service built with Go, Redis, and React.
 - [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, and Bash.
 
-*(Private production work: Telegram anti-burst bot w/ Redis lock, JSON-based Test Management System*
-
 ### Currently Learning / 2026 Goals
 - KCNA (Q2),
 - CKA (Q3/early Q4)

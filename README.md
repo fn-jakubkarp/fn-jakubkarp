@@ -1,27 +1,30 @@
-# 🌊 Hi, I'm [@jakubkarp](https://github.com/fn-jakubkarp)
+# Hi, [@jakubkarp](https://github.com/fn-jakubkarp) here
 I do DevOps, infrastructure, and automation.
 <img align="right" width="40%" src="https://github.com/fn-jakubkarp/fn-jakubkarp/raw/main/github-metrics.svg" alt="Metrics stats"/>
 
 
 <img src="https://komarev.com/ghpvc/?username=fn-jakubkarp&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkarp" /> <img src="https://img.shields.io/github/followers/fn-jakubkarp?style=flat&logo=github&color=lightgrey&label=Followers" alt="Followers" />
 
-### Stack I'm working with:
-- **Infra & CI:** Linux (Debian/RHEL), Docker, Github Actions, Terraform, Ansible, Multipass
-- **Scripting & Backend:** Python, Bash, Redis, Node.js
+### I'm working with:
+- Linux (Debian/RHEL), Docker, Github Actions, Ansible, Multipass
+- Python, Bash, Redis, Node.js
+- *learning: k8s, terraform, prometheus, jenkins*
 
 ### Currently working on:
-- [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, and Bash.
+- [Documentation on The Fly (DOF)](https://gitlab.com/jakubkarp/dof/) - TUI tool for on-the-fly searching and rendering common DevOps terminal workflows ![Status](https://img.shields.io/badge/Status-Internal%20Alpha-8A2BE2?style=flat)
+  
 
 ### Open Source Projects & Homelab:
-- [Zed Vivid Voice Theme](https://github.com/fn-jakubkarp/zed-vivid-void-theme) & [Zed Config](https://github.com/fn-jakubkarp/zed-cfg) - A personal color theme and configuration setup for the Zed editor.
-- [Ansible Dotfiles](https://github.com/fn-jakubkarp/ansible-dotfiles) - Infrastructure-as-Code approach to managing my dotfiles across multiple machines.  
-- [Coresend](https://github.com/lirinlabs/coresend) - A zero-trust, ephemeral email service built with Go, Redis, and React.  
+- [Zed Vivid Voice Theme](https://github.com/fn-jakubkarp/zed-vivid-void-theme) & [Zed Config](https://github.com/fn-jakubkarp/zed-cfg) - A personal color theme and configuration setup for the Zed editor ![Version](https://img.shields.io/badge/version-v0.0.1-007EC6?style=flat)
+- [Ansible Dotfiles](https://github.com/fn-jakubkarp/ansible-dotfiles) - Infrastructure-as-Code approach to managing my dotfiles across multiple machines ![Status](https://img.shields.io/badge/status-personal%20use-607D8B?style=flat)
+- [Coresend](https://github.com/lirinlabs/coresend) - Ephemeral email service built with Go, Redis, and React.
+- [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, and Bash.
 
-*(Private production work: Telegram anti-burst bot w/ Redis lock, Custom JSON-based Test Management System, Self-hosted GitHub Runners infrastructure)*
+*(Private production work: Telegram anti-burst bot w/ Redis lock, JSON-based Test Management System*
 
 ### Currently Learning / 2026 Goals
-- Prometheus & Grafana
-- Terraform Associate 004, AZ-104, CKA
+- KCNA (Q2),
+- CKA (Q3/early Q4)
 
 <hr>
 

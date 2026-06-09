@@ -23,7 +23,7 @@ I do DevOps, infrastructure, and automation.
 ### Currently Learning / 2026 Goals
 - ✅ KCNA (Q2) - [Passed](https://www.credly.com/badges/4f212e44-6783-42da-80f7-9a08627365e2/public_url)
 - GCP-ACE (early Q3)
-- Terraform (Q3)
+- Terraform Associate 004 (Q3)
 - CKA (Q4)
 
 <hr>

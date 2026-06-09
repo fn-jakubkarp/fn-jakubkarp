@@ -21,8 +21,10 @@ I do DevOps, infrastructure, and automation.
 - [Docker Swarm Provisioner w/ Multipass](https://github.com/fn-jakubkarp/multipass-swarm-mode) - Automated Docker Swarm cluster provisioner using Multipass, Ansible, and Bash.
 
 ### Currently Learning / 2026 Goals
-- ✅ KCNA (Q2), - [Passed](https://www.credly.com/badges/4f212e44-6783-42da-80f7-9a08627365e2/public_url)
-- CKA (Q3/early Q4)
+- ✅ KCNA (Q2) - [Passed](https://www.credly.com/badges/4f212e44-6783-42da-80f7-9a08627365e2/public_url)
+- GCP-ACE (early Q3)
+- Terraform (Q3)
+- CKA (Q4)
 
 <hr>
 

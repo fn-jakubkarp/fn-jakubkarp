@@ -15,6 +15,7 @@ I do DevOps, infrastructure, and automation.
   
 
 ### Open Source Projects & Homelab:
+- [Learn It](https://github.com/fn-jakubkarp/learn-it) - AI-powered learning pipeline built for Claude Code. FSRS spaced repetition, local SQLite state, automated active recall evaluation, Dreyfus scale mastery tracking.
 - [Zed Vivid Void Theme](https://github.com/fn-jakubkarp/zed-vivid-void-theme) & [Zed Config](https://github.com/fn-jakubkarp/zed-cfg) - A personal color theme and configuration setup for the Zed editor ![Version](https://img.shields.io/badge/version-v0.0.1-007EC6?style=flat)
 - [Ansible Dotfiles](https://github.com/fn-jakubkarp/ansible-dotfiles) - Infrastructure-as-Code approach to managing my dotfiles across multiple machines ![Status](https://img.shields.io/badge/status-personal%20use-607D8B?style=flat)
 - [Coresend](https://github.com/lirinlabs/coresend) - Ephemeral email service built with Go, Redis, and React.
